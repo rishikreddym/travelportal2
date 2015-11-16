@@ -1,0 +1,25 @@
+table.our tr:hover td { 
+    background: rgb(255, 255, 3);
+  }
+
+  div.scrollingArea { 
+    height: 240px; 
+    overflow: auto; 
+    }
+html, body {
+    max-width: 100%;
+    overflow-x: hidden;
+}
+a.Hello{
+	color:rgb(255,255,255);
+}
+hr { 
+    display: block;
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+    margin-left: auto;
+    margin-right: auto;
+    border-style: inset;
+    border-width: 5px;
+}
+
